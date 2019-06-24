@@ -1,5 +1,4 @@
-# DSC GU ANDROID PROGRAM 
-## Java Test
+# DSC GU ANDROID PROGRAM $Java Test$
 
 * This Repository is for java Test. 
 
