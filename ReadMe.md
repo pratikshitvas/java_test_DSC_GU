@@ -18,7 +18,7 @@
 
 # Note
 
-## Don't change other folder and Problem_Statement.
+## Don't change other's folder's and Problem_Statement's.
 ## You have to solve both Problem statement in Java.  
 ## In Java_PS_1 you have to write full code on Java.
 ## In Java_PS_2 you have a existing code with some error you have to remove them.<br>to solve this copy the code from Problem_Statement folder and paste it on the folder you have created and make change on it. 
